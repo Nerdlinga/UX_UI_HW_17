@@ -12,6 +12,10 @@
 .navigation {
     width: 73%;
     padding: 1%;
+    display: flex;
+    justify-content: left;
+    align-content: left;
+    word-spacing: 30px;
 }
 
 #links {
@@ -43,7 +47,10 @@ footer {
     word-spacing: 30px;
 }
 
-
+.links img {
+    height: 15px;
+    width: 15px;
+}
 
 
 
