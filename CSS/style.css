@@ -1,11 +1,20 @@
+/* the navigation section styles */
+
+
 /* the main body section styles */
+.profilePic {
+    float: left;
+}
+
 section {
     background-image: url("Images/joe-woods-4Zaq5xY5M_c-unsplash\ 1.png");
     padding: 10px;
 }
 
 .content {
+    display: inline-block;
     background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
 .skills {
