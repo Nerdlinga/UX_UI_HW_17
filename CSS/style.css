@@ -1,4 +1,14 @@
+/* the main body section styles */
+section {
+    background-image: url("Images/joe-woods-4Zaq5xY5M_c-unsplash\ 1.png");
+    padding: 10px;
+}
 
+.content {
+    background-color: white;
+}
+
+/* the footer section styles */
 .footer {
     position: fixed;
 }
