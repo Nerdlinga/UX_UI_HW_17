@@ -8,6 +8,14 @@ section {
     background-color: white;
 }
 
+.skills {
+    background-color: hsla(241, 84%, 64%, 0.3)
+}
+
+.interests {
+    background-color: hsla(305, 46%, 48%, 0.3);
+}
+
 /* the footer section styles */
 .footer {
     position: fixed;
